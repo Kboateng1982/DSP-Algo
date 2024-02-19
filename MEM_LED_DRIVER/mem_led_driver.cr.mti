@@ -1,0 +1,16 @@
+C:/Users/kboateng/OneDrive/Desktop/Digital_Design/mem_led_driver/mem_led_driver_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/kboateng/OneDrive/Desktop/Digital_Design/mem_led_driver/mem_led_driver_tb.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling package mem_led_driver_tb_sv_unit
+-- Compiling module mem_led_driver_tb
+
+Top level modules:
+	mem_led_driver_tb
+
+} {} {}} C:/Users/kboateng/OneDrive/Desktop/Digital_Design/mem_led_driver/mem_led_driver.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/kboateng/OneDrive/Desktop/Digital_Design/mem_led_driver/mem_led_driver.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mem_led_driver
+
+Top level modules:
+	mem_led_driver
+
+} {} {}}

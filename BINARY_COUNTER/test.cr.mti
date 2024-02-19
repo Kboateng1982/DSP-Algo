@@ -1,0 +1,16 @@
+C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr_tb.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling package my_cntr_tb_sv_unit
+-- Compiling module my_cntr_tb
+
+Top level modules:
+	my_cntr_tb
+
+} {} {}} C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module my_cntr
+
+Top level modules:
+	my_cntr
+
+} {} {}}

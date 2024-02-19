@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+vmy_cntr
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 >NJXDg;^9ol5nZ54bU^W41
+IV:2coS<LT8HMToaG0HoGS2
+!s105 my_cntr_sv_unit
+S1
+Z2 dC:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER
+w1707508479
+8C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr.sv
+FC:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr.sv
+L0 18
+Z3 OL;L;10.6d;65
+Z4 !s108 1707508662.000000
+!s107 C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr.sv|
+!i113 0
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vmy_cntr_tb
+R0
+DXx4 work 18 my_cntr_tb_sv_unit 0 22 @9lMk7lEA:@<nWan@E6@[2
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 _=ARc7G7iRm09TgZkRPb_2
+IB1d0F<1M2730_]mRP4D5`2
+!s105 my_cntr_tb_sv_unit
+S1
+R2
+Z7 w1707508593
+Z8 8C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr_tb.sv
+Z9 FC:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr_tb.sv
+L0 25
+R3
+R4
+Z10 !s107 C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr_tb.sv|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/kboateng/OneDrive/Desktop/Digital_Design/BINARY_COUNTER/my_cntr_tb.sv|
+!i113 0
+R5
+R6
+Xmy_cntr_tb_sv_unit
+R0
+V@9lMk7lEA:@<nWan@E6@[2
+r1
+!s85 0
+31
+!i10b 1
+!s100 7ON>b:4_0:bf2IC?63jYc1
+I@9lMk7lEA:@<nWan@E6@[2
+!i103 1
+S1
+R2
+R7
+R8
+R9
+L0 23
+R3
+R4
+R10
+R11
+!i113 0
+R5
+R6

@@ -1,0 +1,16 @@
+C:/Users/kboateng/OneDrive/Desktop/Digital_Design/ADD_SUB/rtl_adder_subtractor.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/kboateng/OneDrive/Desktop/Digital_Design/ADD_SUB/rtl_adder_subtractor.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling package rtl_adder_subtractor_sv_unit
+-- Compiling module rtl_adder_subtractor_tb
+
+Top level modules:
+	rtl_adder_subtractor_tb
+
+} {} {}} C:/Users/kboateng/OneDrive/Desktop/Digital_Design/ADD_SUB/add_sub.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/kboateng/OneDrive/Desktop/Digital_Design/ADD_SUB/add_sub.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module rtl_adder_subtractor
+
+Top level modules:
+	rtl_adder_subtractor
+
+} {} {}}

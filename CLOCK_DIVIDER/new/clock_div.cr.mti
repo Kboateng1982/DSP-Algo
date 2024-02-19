@@ -1,0 +1,16 @@
+C:/Users/kboateng/OneDrive/Desktop/Digital_Design/CLOCK_DIVIDER/new/clock_divider.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/kboateng/OneDrive/Desktop/Digital_Design/CLOCK_DIVIDER/new/clock_divider.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module clock_divider
+
+Top level modules:
+	clock_divider
+
+} {} {}} C:/Users/kboateng/OneDrive/Desktop/Digital_Design/CLOCK_DIVIDER/new/clock_divider_tb.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/kboateng/OneDrive/Desktop/Digital_Design/CLOCK_DIVIDER/new/clock_divider_tb.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module clock_divider_tb
+** Warning: C:/Users/kboateng/OneDrive/Desktop/Digital_Design/CLOCK_DIVIDER/new/clock_divider_tb.sv(56): (vlog-2597) '4000000000' is being treated as 32-bit signed integer and will overflow.
+
+Top level modules:
+	clock_divider_tb
+
+} {} {}}
